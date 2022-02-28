@@ -7,4 +7,4 @@
 3-> I Have Used React Js to do this project along with redux for storing and getting the data
 <br/>
 
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; @made with ❤️ by Suhit Gupta
+<p align="center">@made with ❤️ by Suhit gupta</p>
